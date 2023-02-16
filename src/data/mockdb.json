@@ -1,0 +1,227 @@
+{
+    "projectList": [
+        {
+            "type": "main",
+            "depth1": "메인",
+            "depth2": "",
+            "depth3": "",
+            "depth4": "",
+            "filename": "main",
+            "link": "/main",
+            "etc": "",
+            "working": "완료"
+        },
+        {
+            "type": "main",
+            "depth1": "",
+            "depth2": "지점선택 팝업",
+            "depth3": "",
+            "depth4": "",
+            "filename": "MAIN_LOPT01",
+            "link": "",
+            "etc": "진행중입니다.",
+            "working": "진행예정"
+        },
+        {
+            "type": "main",
+            "depth1": "",
+            "depth2": "",
+            "depth3": "",
+            "depth4": "",
+            "filename": "",
+            "link": "",
+            "etc": "추가됩니다",
+            "working": "진행예정"
+        },
+        {
+            "type": "main",
+            "depth1": "",
+            "depth2": "",
+            "depth3": "",
+            "depth4": "",
+            "filename": "",
+            "link": "",
+            "etc": "",
+            "working": "진행예정"
+        },
+        {
+            "type": "main",
+            "depth1": "",
+            "depth2": "",
+            "depth3": "",
+            "depth4": "",
+            "filename": "",
+            "link": "",
+            "etc": "3번째로 들어감",
+            "working": "진행예정"
+        },
+
+        {
+            "type": "reserve",
+            "depth1": "예약",
+            "depth2": "로그인 유도",
+            "depth3": "",
+            "depth4": "",
+            "filename": "P-RE_LOGIN_LOPT01",
+            "link": "",
+            "etc": "삭제되었습니다.",
+            "working": "완료"
+        },
+        {
+            "type": "reserve",
+            "depth1": "",
+            "depth2": "보험 및 부가용품",
+            "depth3": "보장내용 팝업",
+            "depth4": "",
+            "filename": "P-RE_detail_STEP01",
+            "link": "",
+            "etc": "테스트 입니다.ㅁㄴㅇㄻㄴㄹ",
+            "working": "완료"
+        },
+        {
+            "type": "reserve",
+            "depth1": "",
+            "depth2": "부가용품",
+            "depth3": "팝업",
+            "depth4": "",
+            "filename": "P-RE_detail_STEP01",
+            "link": "",
+            "etc": "테스트 입니다.ㅁㄴㅇㄻㄴㄹ",
+            "working": "진행예정"
+        },
+
+        {
+            "type": "customer",
+            "depth1": "고객센터",
+            "depth2": "자주찾는 질문",
+            "depth3": "리스트",
+            "depth4": "",
+            "filename": "P-CS_FQ_01",
+            "link": "",
+            "etc": "",
+            "working": "완료"
+        },
+        {
+            "type": "customer",
+            "depth1": "",
+            "depth2": "공지사항",
+            "depth3": "상세",
+            "depth4": "",
+            "filename": "P-CS_NT_03",
+            "link": "",
+            "etc": "테스트 입니다.ㅁㄴㅇㄻㄴㄹ",
+            "working": "진행예정"
+        },
+
+        {
+            "type": "member",
+            "depth1": "회원",
+            "depth2": "회원가입",
+            "depth3": "회원가입 방법 선택",
+            "depth4": "",
+            "filename": "P-CS_FQ_01",
+            "link": "",
+            "etc": "",
+            "working": "진행예정"
+        },
+        {
+            "type": "member",
+            "depth1": "",
+            "depth2": "아이디 찾기",
+            "depth3": "아이디찾기완료 (통합+간편)",
+            "depth4": "",
+            "filename": "P-CS_NT_03",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "완료"
+        },
+        {
+            "type": "member",
+            "depth1": "",
+            "depth2": "비밀번호 재설정",
+            "depth3": "아이디입력",
+            "depth4": "",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "진행예정"
+        },
+        {
+            "type": "user-infomation",
+            "depth1": "이용안내",
+            "depth2": "지점안내",
+            "depth3": "",
+            "depth4": "",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "완료"
+        },
+        {
+            "type": "user-infomation",
+            "depth1": "",
+            "depth2": "",
+            "depth3": "지점안내(단기/장기)",
+            "depth4": "",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "완료"
+        },
+        {
+            "type": "user-infomation",
+            "depth1": "",
+            "depth2": "",
+            "depth3": "",
+            "depth4": "상세보기",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "진행예정"
+        },
+        {
+            "type": "car",
+            "depth1": "차량목록",
+            "depth2": "카드형",
+            "depth3": "",
+            "depth4": "",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "진행예정"
+        },
+        {
+            "type": "car",
+            "depth1": "",
+            "depth2": "차량상세",
+            "depth3": "",
+            "depth4": "",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "진행예정"
+        },
+        {
+            "type": "mypage",
+            "depth1": "마이페이지",
+            "depth2": "예약복수",
+            "depth3": "",
+            "depth4": "스마트케어 팝업",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "완료"
+        },
+        {
+            "type": "mypage",
+            "depth1": "",
+            "depth2": "내정보관리",
+            "depth3": "보기",
+            "depth4": "",
+            "filename": "P-CS_NT",
+            "link": "",
+            "etc": "테스트 입니다.",
+            "working": "진행예정"
+        }
+    ]
+}
